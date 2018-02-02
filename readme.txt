@@ -2,4 +2,4 @@ Git is a distributed version control system.
 Git is free distributed software.
 Git has a mutable index called stager.
 Git tracks changes of file.
-Try to create a new branch.
+Tring to create a new branch is simple.
